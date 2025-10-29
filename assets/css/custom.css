@@ -152,4 +152,8 @@
     text-transform: none;
     box-shadow: 0 4px 10px rgba(77, 194, 197, 0.4);
   }
+  .portrait-img {
+    max-height: 240px;
+    margin-left: 20%;
+  }
 }
